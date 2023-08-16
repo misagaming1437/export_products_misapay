@@ -1,0 +1,17 @@
+/.dart_tool
+/.flutter-plugins
+/.flutter-plugins-dependencies
+/.idea
+/.metadata
+/analysis_options.yaml
+/android
+/build
+/ios
+/linux
+/macos
+/misapay_import_menu.iml
+/pubspec.lock
+/README.md
+/test
+/web
+/windows
